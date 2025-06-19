@@ -6,8 +6,7 @@ This project uses the YOLOv8 (You Only Look Once) object detection algorithm to 
 
 - `CODE.py` - Main Python script for running YOLOv8 detection
 - `OUTPUT1.jpg`, `OUTPUT 2.jpg`, `OUTPUT 3.jpg` - Sample output images
-- `Project Report.pdf` - (Optional) Project documentation
-
+- 
 ---
 
 ## ✅ Requirements
